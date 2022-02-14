@@ -1,2 +1,4 @@
 Notes on generatePDF.py
 To configure environment for installation: pip install reportlabs
+Script can be run with: python3 generatePDF.py
+Script must be run in the directory where the txt file is located
