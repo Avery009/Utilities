@@ -1,0 +1,2 @@
+Notes on generatePDF.py
+To configure environment for installation: pip install reportlabs
